@@ -1,17 +1,5 @@
 # Afra-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <title>About Me - Afra Anjum</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 0;
-      padding: 0 20px 40px;
-      background: #f9f9f9;
-      color: #333;
-    }
+
     /* Background banner */
     .banner {
       background-image: url('IMG_1932.jpeg');
